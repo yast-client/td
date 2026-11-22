@@ -1,3 +1,11 @@
+# TDLib for YAST Client
+
+This is the TDLib fork used by YAST Client. It is built using GitHub Actions. For more info on TDLib, visit the [original repo](https://github.com/tdlib/td/).
+
+Currently used build variants are:
+- 1: for SailfishOS 5.0
+- 2: for SailfishOS 5.1+
+
 # TDLib
 
 TDLib (Telegram Database library) is a cross-platform library for building [Telegram](https://telegram.org) clients. It can be easily used from almost any programming language.
